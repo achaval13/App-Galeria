@@ -1,0 +1,26 @@
+{
+  "short_name": "Galeria",
+  "name": "React App Galeria",
+  "description": "Galeria de fotos realizada con React",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "./6442802_galery_image_media_photo_picture_icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./6442802_galery_image_media_photo_picture_icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
